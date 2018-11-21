@@ -1,0 +1,7 @@
+.idea/
+*.pyc
+Scripts/
+blog/
+tcl/
+Include/
+Lib/
